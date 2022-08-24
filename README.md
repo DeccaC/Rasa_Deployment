@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=9C1Km6xfdMA
 
 #### Build the Docker app and run the services:
 
-- > docker-compose up --build
+- > sudo docker-compose up --build
 
 - Check whether the services are up and running using below command:
 - > docker ps -a
