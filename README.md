@@ -16,9 +16,10 @@ Deploying Rasa Bot over Google Cloud Platform using Docker.
 
 - Check whether the services are up and running using below command:
 > docker ps -a
-
-- test out the bot in the browser
+- test out the rasa server in the browser
 > http://localhost:5005
+- test out the bot in the browser
+> http://localhost:3000
 
 Youtube Video:
 
