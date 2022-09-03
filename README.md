@@ -18,7 +18,7 @@ Deploying Rasa Bot over Google Cloud Platform using Docker.
 > docker ps -a
 
 - test out the bot in the browser
-> http://localhost
+> http://localhost:5005
 
 Youtube Video:
 
